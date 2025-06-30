@@ -20,7 +20,7 @@ function insertNavbar() {
             </button>
 
             <ul id="navbar-links">
-                <li><a href="home.html" class="nav-link">Home</a></li>
+                <li><a href="index.html" class="nav-link">Home</a></li>
                 <li class="dropdown">
                     <a href="#" class="nav-link sp-link">Our Works</a>
                     <span class="polygon"></span>
